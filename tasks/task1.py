@@ -7,7 +7,7 @@ def solve():
     sum1=float(input("Введите первое число: "))
     sum2=float(input("Введите второе число: "))
     sum3=sum1+sum2
-    print("Сумма: ", sum3)
+    print("Сумма:", sum3)
 
 
 
